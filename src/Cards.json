@@ -1,0 +1,258 @@
+{
+	"c1":{
+	    "name": "The Bungle Bungles",
+	    "site": "A",
+	    "region": "Western Australia",
+	    "hashtagg": 1,
+	    "collection": "Leaves",
+	    "animal": "",
+	    "activity": "Indigenous Culture"
+	},
+	  
+	"c2":{
+	    "name": "The Pinnacles",
+	    "site": "B",
+	    "region": "Western Australia",
+	    "hashtagg": 1,
+	    "collection": "",
+	    "animal": "Kangaroos",
+	    "activity": "Sightseeing"
+	},
+    "c3": {
+        "name": "Margaret River",
+        "site": "C",
+        "region": "Western Australia",
+        "hashtagg": 1,
+        "collection": "Shells",
+        "animal": "Kangaroos",
+        "activity": ""
+    },
+    "c4": {
+        "name": "Kalbarri National Park",
+        "site": "D",
+        "region": "Western Australia",
+        "hashtagg": 1,
+        "collection": "Wildflowers",
+        "animal": "",
+        "activity": "Bushwalking"
+    },
+    "c5": {
+        "name": "Uluru",
+        "site": "E",
+        "region": "Northern Territory",
+        "hashtagg": 4,
+        "collection": "",
+        "animal": "Emus",
+        "activity": "Indigenous Culture"
+    },
+    "c6": {
+        "name": "Kakadu National Park",
+        "site": "F",
+        "region": "Northern Territory",
+        "hashtagg": 4,
+        "collection": "",
+        "animal": "Wombats",
+        "activity": "Sightseeing"
+    },
+    "c7": {
+        "name": "Nitmiluk National Park",
+        "site": "G",
+        "region": "Northern Territory",
+        "hashtagg": 4,
+        "collection": "Shells",
+        "animal": "Platypuses",
+        "activity": ""
+    },
+    "c8": {
+        "name": "King's Canyon",
+        "site": "H",
+        "region": "Northern Territory",
+        "hashtagg": 4,
+        "collection": "",
+        "animal": "Koalas",
+        "activity": "Swimming"
+    },
+    "c9": {
+        "name": "The Great Barrier Reef",
+        "site": "I",
+        "region": "Queensland",
+        "hashtagg": 6,
+        "collection": "Wildflowers",
+        "animal": "",
+        "activity": "Sightseeing"
+    },
+    "c10": {
+        "name": "The Whitsundays",
+        "site": "J",
+        "region": "Queensland",
+        "hashtagg": 6,
+        "collection": "",
+        "animal": "Kangaroos",
+        "activity": "Indigenous Culture"
+    },
+    "c11": {
+        "name": "Daintree Rainforest",
+        "site": "K",
+        "region": "Queensland",
+        "hashtagg": 6,
+        "collection": "Souvenirs",
+        "animal": "",
+        "activity": "Bushwalking"
+    },
+    "c12": {
+        "name": "Surfers Paradise",
+        "site": "L",
+        "region": "Queensland",
+        "hashtagg": 6,
+        "collection": "Wildflowers",
+        "animal": "",
+        "activity": "Swimming"
+    },
+    "c13": {
+        "name": "Barossa Valley",
+        "site": "M",
+        "region": "South Australia",
+        "hashtagg": 3,
+        "collection": "",
+        "animal": "Koalas",
+        "activity": "Bushwalking"
+    },
+    "c14": {
+        "name": "Lake Eyre",
+        "site": "N",
+        "region": "South Australia",
+        "hashtagg": 3,
+        "collection": "",
+        "animal": "Emus",
+        "activity": "Swimming"
+    },
+    "c15": {
+        "name": "Kangaroo Island",
+        "site": "O",
+        "region": "South Australia",
+        "hashtagg": 3,
+        "collection": "",
+        "animal": "Kangaroos",
+        "activity": "Bushwalking"
+    },
+    "c16": {
+        "name": "Mount Gambier",
+        "site": "P",
+        "region": "South Australia",
+        "hashtagg": 3,
+        "collection": "Wildflowers",
+        "animal": "",
+        "activity": "Sightseeing"
+    },
+    
+ "c17": {
+    "name": "Blue Mountains",
+    "site": "Q",
+    "region": "New South Wales",
+    "hashtagg": 5,
+    "collection": "",
+    "animal": "Wombats",
+    "activity": "Indigenous Culture"
+},
+"c18": {
+    "name": "Sydney Harbour",
+    "site": "R",
+    "region": "New South Wales",
+    "hashtagg": 5,
+    "collection": "",
+    "animal": "Emus",
+    "activity": "Sightseeing"
+},
+"c19": {
+    "name": "Bondi Beach",
+    "site": "S",
+    "region": "New South Wales",
+    "hashtagg": 5,
+    "collection": "",
+    "animal": "Wombats",
+    "activity": "Swimming"
+},
+"c20": {
+    "name": "Hunter Valley",
+    "site": "T",
+    "region": "New South Wales",
+    "hashtagg": 5,
+    "collection": "",
+    "animal": "Emus",
+    "activity": "Bushwalking"
+},
+"c21": {
+    "name": "Melbourne",
+    "site": "U",
+    "region": "Victoria",
+    "hashtagg": 2,
+    "collection": "",
+    "animal": "Wombats",
+    "activity": "Bushwalking"
+},
+"c22": {
+    "name": "The MCG",
+    "site": "V",
+    "region": "Victoria",
+    "hashtagg": 2,
+    "collection": "Leaves",
+    "animal": "",
+    "activity": "Indigenous Culture"
+},
+"c23": {
+    "name": "Twelve Apostles",
+    "site": "W",
+    "region": "Victoria",
+    "hashtagg": 2,
+    "collection": "Shells",
+    "animal": "",
+    "activity": "Swimming"
+},
+"c24": {
+    "name": "Royal Exhibition Building",
+    "site": "X",
+    "region": "Victoria",
+    "hashtagg": 2,
+    "collection": "Leaves",
+    "animal": "Platypuses",
+    "activity": ""
+},
+"c25": {
+    "name": "Salamanca Markets",
+    "site": "Y",
+    "region": "Tasmania",
+    "hashtagg": 7,
+    "collection": "Leaves",
+    "animal": "Emus",
+    "activity": ""
+},
+"c26": {
+    "name": "Mount Wellington",
+    "site": "Z",
+    "region": "Tasmania",
+    "hashtagg": 7,
+    "collection": "",
+    "animal": "Koalas",
+    "activity": "Sightseeing"
+},
+"c27": {
+    "name": "Port Arthur",
+    "site": "*",
+    "region": "Tasmania",
+    "hashtagg": 7,
+    "collection": "Leaves",
+    "animal": "",
+    "activity": "Indigenous Culture"
+},
+"c28": {
+    "name": "Richmond",
+    "site": "-",
+    "region": "Tasmania",
+    "hashtagg": 7,
+    "collection": "",
+    "animal": "Kangaroos",
+    "activity": "Swimming"
+}
+}
+
+
